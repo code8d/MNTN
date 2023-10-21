@@ -1,0 +1,21 @@
+:root {
+    --main-bg: #0B1D26;
+    --main-accent: #FBD784;
+}
+
+body {
+    font-family: 'Gilroy';
+    font-size: 18px;
+    color: white;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, a {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
