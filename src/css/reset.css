@@ -7,6 +7,7 @@ body {
     font-family: 'Gilroy';
     font-size: 18px;
     color: white;
+    background: var(--main-bg);
 }
 
 body, h1, h2, h3, h4, h5, h6, p, a {
@@ -18,4 +19,9 @@ button {
     outline: none;
     border: none;
     cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
 }
